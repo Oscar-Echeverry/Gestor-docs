@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database databaseName="gestor_docs" entityMode="MAP">
+    <jdbcConnection driver="com.mysql.jdbc.Driver" url="jdbc:mysql://localhost:3306/gestor_docs?useSSL=false&amp;serverTimezone=UTC" username="root" password="root"/>
+    <schemas>
+        <schema schemaName="gestor_docs">
+            <tables/>
+            <annotations/>
+        </schema>
+    </schemas>
+    <annotations/>
+</database>

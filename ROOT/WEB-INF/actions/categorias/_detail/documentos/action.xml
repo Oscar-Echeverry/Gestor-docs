@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<action>
+    <permissions>
+        <group level="DEVELOP" name="administrators">
+            <permission>crud-create</permission>
+            <permission>crud-delete</permission>
+            <permission>crud-edit</permission>
+        </group>
+        <group name="all"/>
+        <group name="anonymous"/>
+        <group level="EDIT" name="registered">
+            <permission>crud-create</permission>
+            <permission>crud-delete</permission>
+            <permission>crud-edit</permission>
+        </group>
+    </permissions>
+</action>

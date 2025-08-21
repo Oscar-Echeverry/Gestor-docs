@@ -1,0 +1,12 @@
+{
+  "template": null,
+  "children": [],
+  "source": "usuarios",
+  "title": "usuarios",
+  "type": "crud",
+  "detailChildren": [{
+    "path": "documentos",
+    "showInNavigation": true,
+    "title": "documentos"
+  }]
+}

@@ -1,0 +1,11 @@
+{
+  "children" : [ ],
+  "source" : "categorias",
+  "type" : "crud",
+  "title" : "categorias",
+  "detailChildren" : [ {
+    "path" : "documentos",
+    "showInNavigation" : true,
+    "title" : "documentos"
+  } ]
+}
